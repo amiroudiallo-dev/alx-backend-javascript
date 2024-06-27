@@ -1,4 +1,6 @@
 {
     "editor.tabSize": 2,
-    "editor.fontSize": 14
+    "editor.fontSize": 14,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontSize": 14
 }
