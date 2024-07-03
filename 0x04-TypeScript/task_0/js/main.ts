@@ -2,7 +2,7 @@
  * Creates a new @see interface represente a student.
  * @author amiroudiallo<https://github.com/amiroudiallo-dev>
  */
-export default interface Student {
+export interface Student {
   firstName: string;
   lastName: string;
   age: number;
